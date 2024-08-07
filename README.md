@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://in.docworkspace.com/d/sIGC9mbGLAaPgqqkG](https://in.docworkspace.com/d/sIGC9mbGLAaPgqqkG)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I thought HTML is a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
